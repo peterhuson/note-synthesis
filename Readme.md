@@ -4,7 +4,7 @@ This project explores the various uses of gaussian processes in signal processin
 
 #### Parsing Beran's Cadenza
 
-See [`note_synthesis.m`](code/note_synthesis.m) for code which takes a 5 second [audio file](fivesec.au) and finds the most likely sequence of notes. 
+See [`note_synthesis.m`](code/note_synthesis.m) for code which takes a 5 second [audio file](code/fivesec.au) and finds the most likely sequence of notes. 
 
 #### Lacunary Series
 
